@@ -1,7 +1,8 @@
 ![Web Development ](https://media.licdn.com/dms/image/C5616AQFXtq3HdDJ6Iw/profile-displaybackgroundimage-shrink_350_1400/0/1638748634493?e=1682553600&v=beta&t=3spQvKUqQ3OYYn9eZrNwbhH9_gqgkAoX4unSvQu2U9A)
 
-## Hi there 👋, Yemi Balogun
-#### Web Development 
+#### Hi there 👋 
+### I'm Yemi Balogun
+#### Web Developer 
 
 A self-taught Web Development from Nigeria. I really enjoy programming in Python as well as learning frameworks like FastApi, Flask, and Bootstrap. I also enjoy making music and networking in general.
 
