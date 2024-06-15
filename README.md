@@ -10,7 +10,7 @@
 A self-taught Web Development from Nigeria. I really enjoy programming in Python as well as learning frameworks like FastApi, Flask, and Bootstrap. I also enjoy making music and networking in general.
 
 * 🌍  I'm based in Nigeria
-* 🧠  I'm learning Flask
+* 🧠  I'm proficient in Flask
 * 🤝  I'm open to collaborating on Interesting projects
 
 #### Skills
