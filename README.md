@@ -1,17 +1,21 @@
-![Web Development ](https://media.licdn.com/dms/image/D4D16AQFfFLAd_fEfKg/profile-displaybackgroundimage-shrink_350_1400/0/1677192703411?e=1682553600&v=beta&t=4IrcSn4GapjmDScFTTKV5Dk8JstrDYCKn6HhVh7dGyQ)
+![Web Development ]
 
-#### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-## I'm Yemi Balogun
-==================
+---
 
-#### Web Developer
--------------
+### Hi, I'm Yemi 👋
 
-A self-taught Web Development from Nigeria. I really enjoy programming in Python as well as learning frameworks like FastApi, Flask, and Bootstrap. I also enjoy making music and networking in general.
+I'm a self-taught web developer from Nigeria, passionate about building robust and scalable applications. My expertise lies in Python, and I have strong experience working with frameworks such as Flask, FastAPI, and Bootstrap. I enjoy continuously expanding my knowledge in web development and love taking on challenging and innovative projects.
 
-* 🌍  I'm based in Nigeria
-* 🧠  I'm proficient in Flask
-* 🤝  I'm open to collaborating on Interesting projects
+- 🌍 Based in Nigeria
+- 🧠 Proficient in Flask, with hands-on experience in FastAPI and Bootstrap
+- 🎵 I also enjoy creating music and connecting with like-minded professionals
+- 🤝 Open to collaborating on exciting and impactful projects
+
+Let’s build something amazing together!
+
+---
+
+You can customize this further as needed!
 
 #### Skills
 
