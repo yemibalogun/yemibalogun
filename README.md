@@ -1,8 +1,7 @@
-![Web Development ]
 
 ---
 
-### Hi, I'm Yemi 👋
+## Hi, I'm Yemi 👋
 
 I'm a self-taught web developer from Nigeria, passionate about building robust and scalable applications. My expertise lies in Python, and I have strong experience working with frameworks such as Flask, FastAPI, and Bootstrap. I enjoy continuously expanding my knowledge in web development and love taking on challenging and innovative projects.
 
@@ -14,8 +13,6 @@ I'm a self-taught web developer from Nigeria, passionate about building robust a
 Let’s build something amazing together!
 
 ---
-
-You can customize this further as needed!
 
 #### Skills
 
