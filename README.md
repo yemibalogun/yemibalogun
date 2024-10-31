@@ -3,14 +3,18 @@
 
 ## Hi, I'm Yemi 👋
 
-I'm a self-taught web developer from Nigeria, passionate about building robust and scalable applications. My expertise lies in Python, and I have strong experience working with frameworks such as Flask, FastAPI, and Bootstrap. I enjoy continuously expanding my knowledge in web development and love taking on challenging and innovative projects.
+I help businesses with end-to-end automation solutions, bridging the gap between custom web development and workflow automation. With over 3 years of experience in Python and Flask, I create robust web applications tailored to specific business needs.
+My expertise includes:
 
-- 🌍 Based in Nigeria
-- 🧠 Proficient in Flask, with hands-on experience in FastAPI and Bootstrap
-- 🎵 I also enjoy creating music and connecting with like-minded professionals
-- 🤝 Open to collaborating on exciting and impactful projects
+* Developing custom web applications with Python and Flask
+* Designing and implementing advanced make.com workflows
+* Creating seamless integrations between web apps and automated processes
+* Leveraging Google Sheets and Forms for efficient data management and user interaction
 
-Let’s build something amazing together!
+What sets me apart is my unique blend of coding skills and no-code automation expertise. I deliver comprehensive, scalable solutions that dramatically enhance business efficiency. Whether you need a custom web application, an automated workflow, or a fully integrated system, I can help streamline your operations and drive growth.
+Let's connect to discuss how I can help automate and optimize your business processes!
+
+#WebDevelopment #WorkflowAutomation #PythonDeveloper #make.com #BusinessEfficiency
 
 ---
 
