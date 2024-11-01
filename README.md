@@ -14,8 +14,6 @@ My expertise includes:
 What sets me apart is my unique blend of coding skills and no-code automation expertise. I deliver comprehensive, scalable solutions that dramatically enhance business efficiency. Whether you need a custom web application, an automated workflow, or a fully integrated system, I can help streamline your operations and drive growth.
 Let's connect to discuss how I can help automate and optimize your business processes!
 
-#WebDevelopment #WorkflowAutomation #PythonDeveloper #make.com #BusinessEfficiency
-
 ---
 
 #### Skills
