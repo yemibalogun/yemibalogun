@@ -3,16 +3,19 @@
 
 ## Hi, I'm Yemi 👋
 
-I help businesses with end-to-end automation solutions, bridging the gap between custom web development and workflow automation. With over 3 years of experience in Python and Flask, I create robust web applications tailored to specific business needs.
-My expertise includes:
+I help businesses deliver **end-to-end automation solutions**, bridging the gap between **custom backend development** and **workflow automation**. With **over 5 years of hands-on Python experience and building production systems with Flask**, I design and implement robust, scalable web applications tailored to real business needs.
 
-* Developing custom web applications with Python and Flask
-* Designing and implementing advanced make.com workflows
-* Creating seamless integrations between web apps and automated processes
-* Leveraging Google Sheets and Forms for efficient data management and user interaction
+My core expertise includes:
 
-What sets me apart is my unique blend of coding skills and no-code automation expertise. I deliver comprehensive, scalable solutions that dramatically enhance business efficiency. Whether you need a custom web application, an automated workflow, or a fully integrated system, I can help streamline your operations and drive growth.
-Let's connect to discuss how I can help automate and optimize your business processes!
+* Building custom backend systems and APIs using **Python and Flask**
+* Designing and implementing advanced **Make.com** automation workflows
+* Creating seamless integrations between web applications and automated processes
+* Leveraging **Google Sheets, Forms, and external APIs** for efficient data capture, orchestration, and reporting
+* Automating repetitive and high-impact business processes for measurable ROI
+
+What sets me apart is my ability to **combine deep backend engineering with no-code/low-code automation**. I don’t just automate tasks—I architect **complete systems** that are reliable, maintainable, and built to scale.
+
+Whether you need a custom Flask backend, a fully automated workflow, or an integrated automation ecosystem, I help businesses streamline operations, reduce manual effort, and unlock growth. Let’s connect and discuss how to optimize your processes through smart automation.
 
 ---
 
